@@ -1,10 +1,10 @@
 <h1 align="center">
-Null3000
+Hi, I'm Luciano Zuccardi
 
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Luciano+Zuccardi.;I'm+a+student+in+4GeeksAcademy.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!.;I'm+a+student+in+4Geeks+Academy.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
