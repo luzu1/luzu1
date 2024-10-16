@@ -5,27 +5,20 @@
  ```python
   class WhoAmI:
     user = 'Luciano Zuccardi'
-    currently_learning = "Ciberseguridad"
+    currently_learning = "Cibersecurity"
 	hobbies = [
-				'Music',
+	'Music',
         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
+	'Gaming',
+	'Sci-Fi Movies'
 			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
 	
  ```
 
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luzu1&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 
