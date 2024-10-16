@@ -6,7 +6,11 @@
   class WhoAmI:
     user = 'Luciano Zuccardi'
     currently_learning = "Cibersecurity"
-	hobbies = ['Music','Chilling','Gaming','Sci-Fi Movies']
+	hobbies = ['Music',
+'Chilling',
+'Gaming',
+'Sci-Fi Movies'
+]
 	
  ```
 
