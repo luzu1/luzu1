@@ -1,97 +1,87 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<h1 align="center">
+Null3000
 
-## Who am I?
+  
+  <h2 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Luciano+Zuccardi.;I'm+a+student+in+4GeeksAcademy.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
- ```python
-  class WhoAmI:
-    user = 'Luciano Zuccardi'
-    currently_learning = "Cibersecurity"
-	hobbies = [
-			'Music',
-			'Chilling',
-			'Gaming',
-			'Sci-Fi Movies'
-			]
+
+## Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+## My Tech Stack and Tools
+
+### Programming Languages
+
+<p>
+  
+
+
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
+![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
+![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
+<img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
+
+
+
+### Frameworks and Libraries
+
+<p>
+
+![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
+![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
+![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
+![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
+
+### Software
+
+<p>
 	
- ```
+![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
+![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
+![icons8-intellij-idea](https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg)
+![icons8-pycharm](https://user-images.githubusercontent.com/76852813/172722267-f6f30163-ec39-4d98-a106-7c91394f4c44.svg)
+![icons8-webstorm](https://user-images.githubusercontent.com/76852813/172722695-28a7df43-15fc-4816-b879-630bd4007526.svg)
+![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
+![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
+![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
 
- 
-## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=luzu1&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 
-## Programming Languages
+
+### MISC
 
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>
-
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-</p>
-
-## Operating Systems
-<p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 	
-</p>
-
-## Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
-## Databases and Cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
-
-## Software and Tools
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
-	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-</p>
-
-## Connect with Me
+![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
+![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
-  <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/bad_boy_official2"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </p>
- <p align="center">
-  <a href="mailto:yadavjay374@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/jaydeep__Yadav_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-</p>
+
+
+
+	
+## GitHub Stats
+
+
+|                                                                     My Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=null3000&theme=react-dark&hide_border=true&area=true) |
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&theme=algolia)              | 
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null3000&theme=algolia)                    | 
+    
+
+|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
+	
+![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+
+###### Some icons courtesy of [icons8](https://icons8.com/)
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+Credit: [Null3000](https://github.com/null3000)
+Last Edited on: 9/6/22
