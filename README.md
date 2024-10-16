@@ -11,7 +11,7 @@
 			'Chilling',
 			'Gaming',
 			'Sci-Fi Movies'
-]
+		]
 	
  ```
 
