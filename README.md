@@ -68,19 +68,19 @@ Hi, I'm Luciano
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=luzu1&theme=react-dark&hide_border=true&area=true) |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzu1&theme=algolia)                    | 
+
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&theme=algolia)              |
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzu1&theme=algolia)                    |
     
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzu1&langs_count=8&theme=algolia)
 	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+![](https://komarev.com/ghpvc/?username=luzu1&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
 ------
-Credit: [Null3000](https://github.com/null3000)
-Last Edited on: 9/6/22
+Credit: [luzu1](https://github.com/luzu1)
+Last Edited on: 17/08/2024
