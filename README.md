@@ -7,8 +7,7 @@ Hi, I'm Luciano
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!.;I'm+a+student+in+4Geeks+Academy.;I'm+currently+learning+cibersecurity!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
-
+## Contribution
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
