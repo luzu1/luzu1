@@ -8,6 +8,30 @@ Hi, I'm Luciano
 
 
 ## Contribution Snake 
+
+name: generate animation
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
    
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/luzu1/luzu1/main.yml?label=action&style=flat-square)](https://github.com/luzu1/luzu1/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/luzu1/snk.svg?style=flat-square)](https://github.com/luzu1/snk/releases/latest)
