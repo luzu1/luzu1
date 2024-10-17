@@ -8,9 +8,7 @@ Hi, I'm Luciano
 
 
 ## Contribution Snake 
-# snk
 
- - name: generate github-contribution-grid-snake.svg
         uses: luzu1/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
