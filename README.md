@@ -66,18 +66,9 @@ Hi, I'm Luciano
 ## GitHub Stats
 
 
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&theme=algolia)              |
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzu1&theme=algolia)                    |
+ ![My Github Stats](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&theme=algolia)              
+ ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzu1&theme=algolia)              
     
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzu1&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=luzu1&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
