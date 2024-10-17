@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Luciano Zuccardi
+Hi, I'm Luciano
 
   
   <h2 align="center">
