@@ -92,13 +92,7 @@ Hi, I'm Luciano
 
 ---
 
- 
-	
-### GitHub Stats
-
-
- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=luzu1&show_icons=true&theme=algolia)              
- ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzu1&theme=algolia)              
+   
     
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
