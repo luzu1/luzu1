@@ -8,12 +8,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: luzu1
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push
+
