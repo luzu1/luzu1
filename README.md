@@ -46,7 +46,8 @@ Hi, I'm Luciano
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge)
 
 
-### Frameworks & Normativas
+### Frameworks & Normativas 🔗
+
 <a href="https://attack.mitre.org/" target="_blank">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge"/>
 </a>
@@ -57,10 +58,6 @@ Hi, I'm Luciano
 
 <a href="https://www.nist.gov/cyberframework" target="_blank">
   <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge"/>
-</a>
-
-<a href="https://www.nist.gov/itl/publications-0/nist-special-publication-800-53" target="_blank">
-  <img src="https://img.shields.io/badge/NIST_800--53-003366?style=for-the-badge"/>
 </a>
 
 <a href="https://www.incibe.es/protege-tu-empresa/ens" target="_blank">
@@ -81,7 +78,8 @@ Hi, I'm Luciano
 ![Nikto](https://img.shields.io/badge/Nikto-2E7D32?style=for-the-badge)
 
 
-## Plataformas de Entrenamiento
+### Plataformas de Entrenamiento 🔗
+
 
 <a href="https://www.hackthebox.com/" target="_blank">
   <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
@@ -94,7 +92,7 @@ Hi, I'm Luciano
 
 
 
-## Infraestructura / Self-hosting
+### Infraestructura / Self-hosting
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,20 +101,15 @@ Hi, I'm Luciano
 </a>
 
 
----
 
 
-##  Certificaciones
+##  Certificaciones 🔗
 
-![4Geeks Academy](https://img.shields.io/badge/4Geeks_Academy-Cybersecurity-blue?style=for-the-badge&logo=academia&logoColor=white)
+<a href="https://certificate.4geeks.com/48dbc45f9f2ba7a41cf85450c75ee7a0c89c8379" target="_blank">
+  <img src="https://img.shields.io/badge/4Geeks_Academy-Cybersecurity-0A66C2?style=for-the-badge"/>
+</a>
 
 
----
-
-   
-    
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
 
 ------
 Credit: [luzu1](https://github.com/luzu1)
