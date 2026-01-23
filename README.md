@@ -7,18 +7,6 @@ Hi, I'm Luciano
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!.;I'm+a+cibersecurity+Analyst.)](https://git.io/typing-svg)
 
 
-## Perfiles  
-
-<a href="https://github.com/luzu1" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lzucc/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
-
-
-
 
 ## Skills
 
