@@ -64,7 +64,7 @@ Hi, I'm Luciano
   <img src="https://img.shields.io/badge/ENS_ES-006400?style=for-the-badge"/>
 </a>
 
-<a href="https://owasp.org/" target="_blank">
+<a href="https://owasp.org/www-project-top-ten/" target="_blank">
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </a>
 
