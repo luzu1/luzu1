@@ -23,8 +23,10 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
+
+          background_color: "#0d1117"
           color_snake: "#22c55e"
-          color_dots: "#0d1117,#161b22,#21262d,#238636,#2ea043"
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
 
 
 
