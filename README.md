@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luciano</h1>
+<h1 align="center">Hola, Soy Luciano</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=520&lines=Bienvenidos+a+mi+GitHub+👋;Laboratorios+y+proyectos+de+ciberseguridad">
@@ -16,7 +16,7 @@ El objetivo es afianzar conceptos técnicos y registrar el progreso de manera co
 
 ---
 
-### Skills
+### Habilidades
 
 
 #### Lenguajes y Scripting
@@ -33,7 +33,6 @@ El objetivo es afianzar conceptos técnicos y registrar el progreso de manera co
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
