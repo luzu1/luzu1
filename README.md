@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Luciano</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+GitHub+Page!;Learning+Cybersecurity">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=520&lines=Bienvenidos+a+mi+GitHub+👋;Laboratorios+y+proyectos+de+ciberseguridad">
 </p>
 
 ---
-### 👋 Sobre mí
+### Sobre mí
 
-Espacio donde documento mi proceso de aprendizaje en **ciberseguridad**, realizando laboratorios y pruebas en entornos vulnerables controlados, con foco en seguridad defensiva y ofensiva.
+ Un perfil enfocado en **ciberseguridad**, realizando laboratorios y pruebas en entornos vulnerables controlados, con foco en seguridad defensiva y ofensiva.
 
 El objetivo es afianzar conceptos técnicos y documentar el progreso de forma clara y estructurada.
 
