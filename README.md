@@ -5,12 +5,12 @@
 </p>
 
 ---
-### Sobre mí
+### 👋 Sobre mí
 
- Un perfil enfocado en **ciberseguridad**, realizando laboratorios y pruebas en entornos vulnerables controlados, con foco en seguridad defensiva y ofensiva.
+Perfil enfocado en **ciberseguridad**, con interés en seguridad defensiva y ofensiva.  
+Trabajo con laboratorios prácticos y pruebas en entornos vulnerables controlados, documentando cada ejercicio de forma clara y estructurada.
 
-El objetivo es afianzar conceptos técnicos y documentar el progreso de forma clara y estructurada.
-
+El objetivo es afianzar conceptos técnicos y registrar el progreso de manera consistente.
 
 📁 [Índice de Proyectos](https://github.com/luzu1/Project-Index)
 
