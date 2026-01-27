@@ -5,7 +5,7 @@
 </p>
 
 ---
-### 👋 Sobre mí
+### Sobre mí
 
 Perfil enfocado en **ciberseguridad**, con interés en seguridad defensiva y ofensiva.  
 Trabajo con laboratorios prácticos y pruebas en entornos vulnerables controlados, documentando cada ejercicio de forma clara y estructurada.
