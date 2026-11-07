@@ -67,10 +67,3 @@ El objetivo es afianzar conceptos técnicos y registrar el progreso de manera co
 </p>
 
 
-
-
-###  Certificaciones 🔗
-
-<a href="https://certificate.4geeks.com/48dbc45f9f2ba7a41cf85450c75ee7a0c89c8379" target="_blank">
-  <img src="https://img.shields.io/badge/4Geeks_Academy-Cybersecurity-0A66C2?style=for-the-badge"/>
-</a>
