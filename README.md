@@ -19,79 +19,52 @@ El objetivo es afianzar conceptos técnicos y registrar el progreso de manera co
 ### Habilidades
 
 
-#### Lenguajes y Scripting
-![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <strong> Tecnologías principales</strong>
+</p>
 
-#### Sistemas Operativos
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,windows,docker,git,github,vscode,raspberrypi&theme=dark&perline=10" alt="Python, Bash, Linux, Kali Linux, Windows, Docker, Git, GitHub, Visual Studio Code y Raspberry Pi" />
+</p>
 
-#### Herramientas SOC / Ciberseguridad
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge)
-![CyberDefenders](https://img.shields.io/badge/CyberDefenders-2E7D32?style=for-the-badge)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge)
+<p align="center">
+  Scripting básico · Administración de sistemas · Virtualización · Contenedores · Laboratorios de ciberseguridad
+</p>
 
 
-#### Frameworks & Normativas 🔗
 
-<a href="https://attack.mitre.org/" target="_blank">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge"/>
-</a>
-
-<a href="https://www.iso.org/standard/27001" target="_blank">
-  <img src="https://img.shields.io/badge/ISO_27001-1E7F3B?style=for-the-badge"/>
-</a>
-
-<a href="https://www.nist.gov/cyberframework" target="_blank">
-  <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge"/>
-</a>
-
-<a href="https://www.incibe.es/protege-tu-empresa/ens" target="_blank">
-  <img src="https://img.shields.io/badge/ENS_ES-006400?style=for-the-badge"/>
-</a>
-
-<a href="https://owasp.org/www-project-top-ten/" target="_blank">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</a>
-
-
-#### Pentesting Tools
-![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-444444?style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-7A1FA2?style=for-the-badge)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FFD700?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-2E7D32?style=for-the-badge)
-
-
-#### Plataformas de Entrenamiento 🔗
-
-
-<a href="https://www.hackthebox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-</a>
-
-<a href="https://dockerlabs.es/" target="_blank">
-  <img src="https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
+<p align="center">
+  <strong> Infraestructura y seguridad</strong>
+</p>
 
 
 
 
-#### Infraestructura / Self-hosting
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" alt="Portainer" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" alt="Nextcloud" />
+  <img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat&logo=uptimekuma&logoColor=black" alt="Uptime Kuma" />
+  <img src="https://img.shields.io/badge/Wazuh-0073B7?style=flat&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+</p>
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<a href="https://nextcloud.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
-</a>
+
+
+
+<p align="center">
+  <strong>📚 Frameworks y referencias de seguridad</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8202F?style=flat" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/NIST_CSF-173B65?style=flat" alt="NIST CSF" />
+  <img src="https://img.shields.io/badge/ISO_27001-44712E?style=flat" alt="ISO 27001" />
+</p>
 
 
 
